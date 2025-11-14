@@ -1,0 +1,18 @@
+# OS / editor files
+.DS_Store
+Thumbs.db
+*.log
+
+# Dependency directories (future-proof)
+vendor/
+node_modules/
+
+# Local environment config
+.env
+
+# Original archive
+Job-Portal-PHP-V2-nmsmet.zip
+
+# User-uploaded files (external resumes and logos)
+jobportal/Jobseekersresumes/
+jobportal/employers/employerslogo/
